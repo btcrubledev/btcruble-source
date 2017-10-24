@@ -1,0 +1,9 @@
+Building BTCRUBLE
+
+See doc/readme-qt.rst for instructions on building BTCRUBLE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BTCRUBLE.
+
+See doc/build-*.txt for instructions on building btcrubled,
+the intended-for-services, no-graphical-interface, reference
+implementation of BTCRUBLE.
